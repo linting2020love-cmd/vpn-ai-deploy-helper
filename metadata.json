@@ -1,0 +1,5 @@
+{
+  "name": "VPN Architect AI",
+  "description": "一个交互式的 AI 驱动指南，帮助用户根据首选协议和操作系统生成定制的 VPN 基础设施搭建技术说明。",
+  "requestFramePermissions": []
+}
